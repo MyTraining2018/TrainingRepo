@@ -10,6 +10,7 @@ public class MainClass {
 	
 	public static void greetings(){
 		System.out.println("Hello!");
+		System.out.println("Good Afternoon!");
 	}
 
 }
